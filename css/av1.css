@@ -1,0 +1,48 @@
+
+
+body{
+	background-image: url("../img/fundo.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	
+}
+
+#topo {
+	color: #DC143C;
+	text-align: center;
+	font-family: verdana;
+}
+
+h2 {
+	color: #FFFFFF;
+}
+
+
+p {
+	color: #F08080;
+}
+
+p a:link {
+   color: #F08080;
+}  
+
+p a:visited {
+	color:yellow;
+}
+
+p a:hover{
+	color: pink;
+}
+	
+
+.center {
+	text-align:center;
+}
+
+.cor{
+	color:#F08080;
+}
+
+
+
